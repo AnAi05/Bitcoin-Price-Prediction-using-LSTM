@@ -1,1 +1,1 @@
-# Bitcoin-Price-Prediction-using-LSTM
+📊Bitcoin Price Prediction📈 using LSTM as part of a project.
